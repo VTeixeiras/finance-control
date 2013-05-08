@@ -301,6 +301,8 @@ public class ViewNotasNova extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    /* Trabalhar nesta parte */
+    
     private void verificaPagamento() {
         /*
          * 0 = Pago
